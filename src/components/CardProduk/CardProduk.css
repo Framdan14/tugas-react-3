@@ -1,0 +1,14 @@
+.id{
+    height: 250;
+    width: 250;
+    background:skyblue;
+    color: black;
+    border-radius: 13;
+    margin-bottom: 100;
+    margin-top: 100;
+}
+
+.gambar{
+    width: 200;
+    height: 100;
+}

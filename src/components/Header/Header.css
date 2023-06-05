@@ -1,0 +1,9 @@
+.id{
+    width: 100vw;
+    height: 5rem;
+    background: aqua;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+}
